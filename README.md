@@ -12,13 +12,14 @@ python(3) -m pip install -r requirements.txt
 ```
 
 ## 🗡️ Usage
-Scan only one player:
+Scan only one player:<br/>
 *python or python3*
 ```bash
 python3 main.py toto
 ```
 
-Scan a list of players
+Scan a list of players<br/>
+*python or python3*
 ```bash
 python3 main.py toto tata titi
 ```
@@ -30,7 +31,7 @@ import matplotlib
 matplotlib.use('TkAgg')
 ```
 &
-Install Lib:
+Install Lib:<br/>
 *python or python3*
 ```bash
 sudo apt-get install python3-tk
