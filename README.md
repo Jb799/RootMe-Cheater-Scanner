@@ -8,11 +8,12 @@ These statstics mean nothing if the context is not known.
 ```bash
 git clone https://github.com/Jb799/RootMe-Cheater-Scanner.git
 cd RootMe-Cheater-Scanner
-python3 -m pip install -r requirements.txt
+python(3) -m pip install -r requirements.txt
 ```
 
 ## 🗡️ Usage
 Scan only one player:
+*python or python3*
 ```bash
 python3 main.py toto
 ```
@@ -23,13 +24,14 @@ python3 main.py toto tata titi
 ```
 
 ## 🐧 For WSL
-Add to main.py:
+Add at the top of the main.py
 ```python
 import matplotlib
 matplotlib.use('TkAgg')
 ```
 &
 Install Lib:
+*python or python3*
 ```bash
 sudo apt-get install python3-tk
 ```
