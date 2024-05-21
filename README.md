@@ -1,2 +1,23 @@
 # RootMe-Cheater-Scanner
-Cheater scanner for root-me
+Calculate the cheat rate of one or more Root-Me players.
+
+### ⚠️ Attention ⚠️
+These statstics mean nothing if the context is not known.
+
+## Installation
+```bash
+git clone https://github.com/Jb799/RootMe-Cheater-Scanner.git
+cd RootMe-Cheater-Scanner
+pip install -r requirements.txt
+```
+
+## Usage
+Scan only one player:
+```bash
+python main.py toto
+```
+
+Scan a list of players
+```bash
+python main.py toto tata titi
+```
