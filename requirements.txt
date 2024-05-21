@@ -1,0 +1,4 @@
+fake_useragent==1.5.1
+matplotlib==3.9.0
+numpy==1.26.4
+Requests==2.32.1
