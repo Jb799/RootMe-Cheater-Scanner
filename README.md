@@ -1,4 +1,8 @@
 # 🤖 𝕽𝖔𝖔𝖙𝕸𝖊-𝕮𝖍𝖊𝖆𝖙𝖊𝖗-𝕾𝖈𝖆𝖓𝖓𝖊𝖗
+![macOS](https://img.shields.io/badge/macOS-compatible-green)
+![Linux](https://img.shields.io/badge/Linux-compatible-green)
+![Windows](https://img.shields.io/badge/Windows-compatible-green)
+
 Calculate the cheat rate of one or more Root-Me players.
 
 ### ⚠️ Attention ⚠️
